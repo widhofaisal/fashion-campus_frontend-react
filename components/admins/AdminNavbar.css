@@ -1,0 +1,7 @@
+#NavBarMenu .ant-menu-submenu-title:hover, 
+#NavBarMenu .ant-menu-submenu-open, 
+#NavBarMenu .ant-menu-submenu-selected,
+#NavBarMenu .ant-menu-submenu-selected::after{
+    color: white;
+    border-bottom: none;
+}

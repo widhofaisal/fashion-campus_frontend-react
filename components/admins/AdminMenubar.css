@@ -1,0 +1,14 @@
+#MenuBarMenu .ant-menu-submenu-arrow{
+    color: white;
+}
+
+.ant-menu-item:active,
+.ant-menu-item-selected{
+    background-color: #A8E7F6 !important;
+    color: #143F5D !important;
+    font-weight: bold;
+}
+
+.ant-menu{
+    color: white
+}
